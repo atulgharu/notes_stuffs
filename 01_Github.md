@@ -29,3 +29,9 @@ Git System
 - Repo
 
     Parts: Branch
+
+## Resource to Learn from Docs and Blogs
+
+- [Git and Github Basics](https://www.freecodecamp.org/news/introduction-to-git-and-github/#:~:text=Git%20and%20GitHub%20are%20common,parts%20of%20being%20a%20developer.)
+
+- [Your Basic Mardown Notes](https://github.com/atulgharu/notes_stuffs/blob/main/Resources/markdown-cheat-sheet.md)
